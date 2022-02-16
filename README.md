@@ -1,0 +1,2 @@
+# Hairdresser-Record-Keeping-SQL
+A database system implemented in SQL that would serve the admin of a hypothetical hairdresser.  The relational tables were all constructed using SQL queries, data imported from excel and then a series of analytical queries were explored using the data-set.  The SQL was facilitated by Microsoft Access, and the attached report shows the query code in a little more detail.
